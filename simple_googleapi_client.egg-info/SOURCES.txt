@@ -1,0 +1,9 @@
+README.md
+setup.py
+simple_googleapi_client.egg-info/PKG-INFO
+simple_googleapi_client.egg-info/SOURCES.txt
+simple_googleapi_client.egg-info/dependency_links.txt
+simple_googleapi_client.egg-info/requires.txt
+simple_googleapi_client.egg-info/top_level.txt
+simplegoogleapi/__init__.py
+simplegoogleapi/client.py

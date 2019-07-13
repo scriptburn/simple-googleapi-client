@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: simple-googleapi-client
+Version: 1.1
+Summary: A simple wrapper for google-api-python-client.
+Home-page: https://github.com/scriptburn/simple-googleapi-client
+Author: Rajneesh ojha
+Author-email: rajneeshojha123@gmail.com
+License: Apache 2.0
+Description: A simple wrapper for google-api-python-client.
+Keywords: simple googleapi client
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
